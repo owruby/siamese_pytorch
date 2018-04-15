@@ -7,7 +7,7 @@ PyTorch implementation of Siamese Network with FashionMNIST.
 - pytorch==0.3.0
 - torchvision=2.0
 
-## Train Siamse Network
+## Train Siamese Network
 ```
 python train.py --lr 0.01 --epochs 20 --batch_size 128
 ```
